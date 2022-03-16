@@ -1,7 +1,6 @@
-# Team-4
-##Code of Conduct
+# Code of Conduct
 
-##Work Habits
+## Work Habits
 
 * Need to maintain the teamwork plan and schedule each month.
 
@@ -12,7 +11,7 @@
 
 * Need to strive for recognizing and celebrating individual and team accomplishments.
 
-##Teamwork
+## Teamwork
 
 * The team members must have frequent, effective communication.
 
@@ -20,7 +19,7 @@
 
 * The team members need to attend the meeting regularly and if there something happening, they need to report to the responsible in team.
 
-##Decision Making & Communication
+## Decision Making & Communication
 
 * Need to give each person a chance to speak their mind while at the same time respecting the group’s time and the meeting timetables. We will be brief and focus on facts, not opinions.
 
@@ -36,7 +35,7 @@
 
 * Need to emphasize collaboration and use consensus for important decisions and issues. For less important issues, we will rely on the subject matter expert with input from others. Planning and Management
 
-##Team Members
+## Team Members
 
 * Aung Khant Min
 
@@ -44,7 +43,7 @@
 
 * Sai Wunna Aung
 
-##Our Standards
+## Our Standards
 
 Examples of behavior that contributes to a positive environment for our community include:
 
@@ -72,17 +71,17 @@ Examples of unacceptable behavior include:
 
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
-##Our Responsibilities
+## Our Responsibilities
 
 Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
-##Scope
+## Scope
 
 This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces.
 
-##Enforcement
+## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at 40501795@live.napier.ac.uk. All complaints will be reviewed and investigated promptly and fairly. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
