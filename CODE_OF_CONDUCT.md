@@ -1,4 +1,4 @@
-## Team-3
+# Team-3
 ## Code of conduct
 
 ### Our Pledge
