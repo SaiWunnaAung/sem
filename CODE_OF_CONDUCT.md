@@ -4,7 +4,6 @@
 
 * Need to maintain the teamwork plan and schedule each month.
 
-
 * Need to accept the responsibility and accountability along with the authority given to us.
 
 * Need to treat each other with respect.
