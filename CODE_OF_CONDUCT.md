@@ -1,4 +1,5 @@
 #Code of Conduct 
+
 ##Work Habits
 
 * Need to maintain the teamwork plan and schedule each month.
