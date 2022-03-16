@@ -1,98 +1,32 @@
-#Code of Conduct 
+## Team-3
+## Code of conduct
 
-##Work Habits
+### Our Pledge
+In the interest of fostering an open and welcoming environment, we as contributors pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-* Need to maintain the teamwork plan and schedule each month.
+### Our Scope
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its team. Examples of representing a project or a team include using an official project e-mail address, posting via an github account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by scrum master.
 
-* Need to accept the responsibility and accountability along with the authority given to us.
+### Our Codes
 
-* Need to treat each other with respect.
+**Code 1: Be present and collaborative** Attendance is important for each individual student and also for the group project. It can improve your image in the eyes of other colleagues. Absent and uncollabroation can damage the the whole project performance. Absent at a working day delay the plan and miss the meeting and the better ideas. Absent at code review day is prohibited because mark are givien at that day. Late at the working day is also impacting the performance.
 
-* Need to strive for recognizing and celebrating individual and team accomplishments.
+**Code 2: Be patient and courteous** Everyone is facing differernt situation. Be emphathetic and don't judge other person quickly. Help them as much as you want
 
-##Teamwork
+**Code 3: Be inclusive.** welcome and support people of all backgrounds and identities. This includes, but is not limited to members of any sexual orientation, gender identity and expression, race, ethnicity, culture, national origin, social and economic class, educational level, color, immigration status, sex, age, size, family status, political belief, religion, and mental and physical ability.
 
-* The team members must have frequent, effective communication.
+**Code 4: Be respectful.** Repsect is the important thing in the working place. Repect does not depend on ages , working experience or status. Everyone should repect each other.
 
-* The team members must have consistent, united, and enthusiastic effort.
+**Code 5: Be empathetic and optismistic.** Every colleagues are humans with hearts and minds. Be empathetic and optimistic to improve your working environment
 
-* The team members need to attend the meeting regularly and if there something happening, they need to report to the responsible in team.
+**Code 6: Be Responsible and accountable** A person 's responbilitiy and accountablity define the standard of the person. Be reponsible and honest with your works. Every used other people's works should be referenced. Admitting mistakes can be forgiven instead of lying. We value the honesty.
 
-##Decision Making & Communication
+| Action | Broken Code ID| Punishment|
+|----|-----|----|
+|<ul> <li>Absent a working day</li><li>Absent at meetings</li><li>**Absent at Code review Day**</li></ul>|Code 1| buy coffee or food for the whole team|
+|<ul><li>Delay the assigned tasks (Any reasons included) </li></ul>|Code 1|buy a coffee or food for someone who helped or worked in your place or reduce 5% in contribution spreadsheet|
+|<ul> <li>Used offensive words which can damage the pride of other colleagues </li><li> Used criticing words and degrading words to colleagues</li> <li>Behave unpleasant or harrased behaviour to other person</li><ul> | Code 4| apologise and buy a coffee or food for offended colleagues|
 
-* Need to give each person a chance to speak their mind while at the same time respecting the group’s time and the meeting timetables. We will be brief and focus on facts, not opinions.
 
-* Need to listen, be non-judgmental and keep an open mind on issues until it is time to decide.
-
-* Need to emphasize balanced participation of all team members.
-
-* Need to accept the responsibility and accountability along with the authority given to us.
-
-* Need emphasize open and honest communication – there are no hidden agendas.
-
-* One person talks at a time; there are no side discussions.
-
-* Need to emphasize collaboration and use consensus for important decisions and issues. For less important issues, we will rely on the subject matter expert with input from others. Planning and Management
-
-##Team Members
-
-* Aung Khant Min
-
-* Kyaw Hein
-
-* Sai Wunna Aung
-
-##Our Standards
-
-Examples of behavior that contributes to a positive environment for our community include:
-
-* Using welcoming and inclusive language
-
-* Demonstrating empathy and kindness toward other people
-
-* Being respectful of differing opinions, viewpoints, and experiences
-
-* Giving and gracefully accepting constructive feedback
-
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-
-* Focusing on what is best not just for us as individuals, but for the overall community
-
-Examples of unacceptable behavior include:
-
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-
-* Trolling, insulting or derogatory comments, and personal or political attacks
-
-* Public or private harassment
-
-* Publishing others’ private information, such as a physical or email address, without their explicit permission
-
-* Other conduct which could reasonably be considered inappropriate in a professional setting
-
-##Our Responsibilities
-
-Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
-
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
-
-##Scope
-
-This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces.
-
-##Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at 40501795@live.napier.ac.uk. All complaints will be reviewed and investigated promptly and fairly. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
-
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
- 
+### Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting scrum master instead of reponsidng by fights or arguments which can damage the team's image. If there is any difficulty, Contact directly to scrum master or through 40437510@live.napier.ac.uk.
